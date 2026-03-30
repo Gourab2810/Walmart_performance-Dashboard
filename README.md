@@ -59,7 +59,7 @@ The main objective of this project is to:
 ---
 
 ## 🖼️ Dashboard Preview
-
+https://github.com/Gourab2810/Walmart_performance-Dashboard/blob/main/Walmart%20Analysis%20Dashboard.png
 
 ---
 
